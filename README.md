@@ -8,3 +8,6 @@ Install guides of basic programs on ubuntu
 ## Lastest Node and npm version guide
 
 [Node](https://tecadmin.net/install-latest-nodejs-npm-on-ubuntu/)
+
+Some cases the link above not work, in this cases use the follow link</br>
+[Node alternative link](https://woliveiras.com.br/posts/como-instalar-o-nodejs-via-bin%C3%A1rios-tar-xz-no-linux/)
